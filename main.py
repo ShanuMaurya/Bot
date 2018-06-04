@@ -1,6 +1,6 @@
 ##REPLACE THESE VALUES
 bot_key="NDM3MjE5ODgwMTc4MDI0NDQ4.DfMngw.aiilp7si6bfKWYaEgBqm-wcPn5k"
-default_role="«« Admiral Otaku  »»"
+default_role=""
 ##--------------------
 import discord
 import asyncio
