@@ -1,6 +1,6 @@
 ##REPLACE THESE VALUES
-bot_key="NDM3MjE5ODgwMTc4MDI0NDQ4.DfMngw.aiilp7si6bfKWYaEgBqm-wcPn5k"
-default_role=""
+bot_key="NDI3MTE2ODM2NTA5ODQzNDY2.Dfbphg.QfOXvFYwpsRLGOeZhdEhtsM9eZY"
+default_role="✔️ Players"
 ##--------------------
 import discord
 import asyncio
